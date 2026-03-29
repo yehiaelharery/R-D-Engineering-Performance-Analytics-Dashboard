@@ -31,11 +31,11 @@ To support scalable analytics, I implemented a **Star Schema** with fact tables 
 
 ### 1. Executive Overview & Project Health
 *Focus: Overall project health, delivery metrics, and task status distribution.*
-![Executive Overview](Dashboard/Executive%20Overview.png)
+![Executive Overview](Dashboard/Executive%20Overview.jpeg)
 
 ### 2. Engineer Productivity & Workload Analysis
 *Focus: Workload distribution, capacity usage, and overload/burnout detection.*
-![Engineer Productivity](Dashboard/Engineer_Productivity.png)
+![Engineer Productivity](Dashboard/Engineer_Productivity.jpeg)
 
 ### 3. Estimation Accuracy (Planned vs. Actual)
 *Focus: Comparing planned engineering effort against actual time logs to improve future scoping.*
