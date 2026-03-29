@@ -1,0 +1,51 @@
+engineer_id,full_name,role,seniority,team,weekly_capacity_hours
+1,Johnny Lindsey,Software Engineer,Mid,Hardware,40
+2,Sergio Brown,CO2 Reduction Engineer,Mid,Embedded Systems,40
+3,Martha Green,Embedded Systems Engineer,Mid,Validation,40
+4,Michael Gonzalez,Software Engineer,Junior,Software,40
+5,Michelle Mercer,Embedded Systems Engineer,Senior,Testing,40
+6,James Sullivan,Embedded Systems Engineer,Senior,Embedded Systems,40
+7,Michelle Moran,Embedded Systems Engineer,Mid,Software,40
+8,Jennifer Williams,QA Engineer,Junior,Embedded Systems,40
+9,Brandon Webster,Software Engineer,Senior,Validation,40
+10,Jessica Brown,Software Engineer,Junior,Testing,40
+11,Julian Palmer,Embedded Systems Engineer,Mid,Testing,40
+12,Steven Jarvis,Embedded Systems Engineer,Senior,Embedded Systems,40
+13,Alison Bailey,CO2 Reduction Engineer,Senior,Testing,40
+14,Dr. Joseph Hernandez IV,CO2 Reduction Engineer,Senior,Testing,40
+15,Kyle Robbins,Embedded Systems Engineer,Senior,Software,40
+16,Andrew Gilbert,QA Engineer,Senior,Embedded Systems,40
+17,Anna Brown,Embedded Systems Engineer,Senior,Embedded Systems,40
+18,Christina Martinez,CO2 Reduction Engineer,Senior,Testing,40
+19,Brandon Underwood,CO2 Reduction Engineer,Mid,Hardware,40
+20,Tracy Nielsen,Software Engineer,Junior,Hardware,40
+21,Clifford Kim,QA Engineer,Mid,Software,40
+22,John Walsh,QA Engineer,Senior,Software,40
+23,Sara Lewis,Software Engineer,Senior,Validation,40
+24,Ashley Miller,Software Engineer,Junior,Validation,40
+25,Jessica Herrera,CO2 Reduction Engineer,Junior,Embedded Systems,40
+26,Andrea Anderson,CO2 Reduction Engineer,Senior,Hardware,40
+27,Tanya Garcia,QA Engineer,Senior,Testing,40
+28,Douglas Morgan,Embedded Systems Engineer,Junior,Validation,40
+29,Anthony Boone,QA Engineer,Junior,Software,40
+30,Kristen Clark,Software Engineer,Junior,Hardware,40
+31,Kirk Aguirre,QA Engineer,Mid,Validation,40
+32,Christine Robinson,QA Engineer,Junior,Testing,40
+33,Mary Walton,Embedded Systems Engineer,Mid,Testing,40
+34,Eileen Petersen,CO2 Reduction Engineer,Senior,Software,40
+35,Alexander Johnson,CO2 Reduction Engineer,Junior,Testing,40
+36,Karen Lane,Embedded Systems Engineer,Senior,Software,40
+37,William Rasmussen,Software Engineer,Senior,Embedded Systems,40
+38,Heather Johnson,QA Engineer,Senior,Hardware,40
+39,Mary Mendez,CO2 Reduction Engineer,Mid,Testing,40
+40,Dustin Willis,CO2 Reduction Engineer,Mid,Hardware,40
+41,Stephanie Moreno,Embedded Systems Engineer,Junior,Validation,40
+42,Chelsea Kirk,Software Engineer,Senior,Hardware,40
+43,Bryan Williams,CO2 Reduction Engineer,Mid,Hardware,40
+44,Cole Smith,CO2 Reduction Engineer,Junior,Testing,40
+45,Jeffrey Ryan,Embedded Systems Engineer,Junior,Testing,40
+46,Jessica Miller,Software Engineer,Senior,Testing,40
+47,Russell Hines,CO2 Reduction Engineer,Junior,Embedded Systems,40
+48,William Diaz,QA Engineer,Mid,Software,40
+49,Darryl Armstrong,Embedded Systems Engineer,Junior,Embedded Systems,40
+50,Erica Bryant,QA Engineer,Mid,Hardware,40

@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS Time_Logs, Milestones, Tasks, Task_Levels, Projects, Engineers CASCADE;

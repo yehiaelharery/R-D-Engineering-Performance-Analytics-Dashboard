@@ -1,0 +1,11 @@
+project_id,project_name,start_date,target_deadline,priority
+1,Smart Grid Infrastructure,2025-10-26,2026-09-03,Medium
+2,Digital Transformation Phase II,2025-11-05,2026-10-26,Medium
+3,Renewable Energy Storage,2025-05-15,2026-02-12,High
+4,Global Supply Chain Audit,2025-07-16,2026-02-07,High
+5,Predictive Maintenance AI,2025-07-15,2026-01-14,Low
+6,Autonomous Navigation Systems,2025-11-22,2026-09-12,Medium
+7,Cloud Migration Strategy,2025-05-15,2026-01-12,Medium
+8,EV Charging Network Expansion,2025-09-08,2026-05-06,Low
+9,Industrial IoT Integration,2025-03-31,2026-03-24,Low
+10,Cybersecurity Framework Update,2025-05-02,2026-04-17,Low
