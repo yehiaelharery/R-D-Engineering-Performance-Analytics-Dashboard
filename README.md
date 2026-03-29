@@ -5,7 +5,7 @@ An end-to-end data analytics platform designed to monitor productivity, workload
 ---
 
 ## 📊 Data Modeling (The Power BI Snowflake)
-To support scalable analytics, I implemented a **Star Schema** with fact tables (Tasks, Time Logs) and dimensions (Engineers, Projects, Milestones, Task Levels, Date).
+To support scalable analytics, I implemented a **Snowflake Schema** with fact tables (Tasks, Time Logs) and dimensions (Engineers, Projects, Milestones, Task Levels, Date).
 
 ![Power BI Snowflake Model](Sql/Screen%20Shots/Snowflake%20modeling%20in%20Power%20BI.jpeg)
 
@@ -35,11 +35,14 @@ To support scalable analytics, I implemented a **Star Schema** with fact tables 
 
 ### 2. Engineer Productivity & Workload Analysis
 *Focus: Workload distribution, capacity usage, and overload/burnout detection.*
-![Engineer Productivity](Dashboard/Engineer_Productivity.jpeg)
+![Engineer Productivity](Dashboard/Engineer%20Productivity.jpeg)
 
 ### 3. Estimation Accuracy (Planned vs. Actual)
 *Focus: Comparing planned engineering effort against actual time logs to improve future scoping.*
-![Estimation Accuracy](Dashboard/Estimation_Accuracy.png)
+![Estimation Accuracy](Dashboard/Estimation%20Accuracy.jpeg)
+
+### 4. Workload & Burnout Analysis
+![Workload & Burnout](Dashboard/Workload%20&%20Burnout.jpeg)
 
 ---
 
@@ -70,4 +73,3 @@ To support scalable analytics, I implemented a **Star Schema** with fact tables 
 
 ## 👤 Author
 **Yehia Elharery**
-*BI-Focused Engineer | Data Analytics & Engineering Specialist*
